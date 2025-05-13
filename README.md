@@ -24,4 +24,4 @@ The animation renders as an `.mp4` video. See the `media/` folder or view a samp
 ## How to Run
 
 ```bash
-manim -pql derivative_scene.py DerivativeAnimation
+manim -pqh full_derivative_animation.py FullDerivativeAnimation
